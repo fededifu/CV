@@ -10,7 +10,7 @@ img {
   position: absolute;
   border-radius: 50%;
   left: 85mm;
-  top: 35mm;
+  top: 40mm;
 }
 
 hr{
@@ -33,19 +33,20 @@ li{
   background-color: #ced7df;
   height: 50mm;
   margin-bottom: 20mm;
+  font-size: 16pt;
 }
 
 .titolo{
   margin-bottom: 0;
   margin-left: 2mm;
   text-align: left;
-  font-size: 15pt;
+  font-size: 16pt;
 }
 
 .testo{
   color: rgb(115,115,115);
-  text-align:left;
-  font-size: 12pt;
+  text-align:justify;
+  font-size: 14pt;
 }
 
 .row{
